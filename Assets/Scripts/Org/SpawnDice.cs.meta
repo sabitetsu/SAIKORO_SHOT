@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 86f9bd3d3b2f1d949944e65c55a53266
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - diceSix: {fileID: 100000, guid: 3bbbc25881226434b86bd98e9424cd6c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
